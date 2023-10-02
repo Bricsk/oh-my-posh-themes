@@ -76,8 +76,9 @@
         {
           "background": "#ffffff",
           "foreground": "#000000",
+          "leading_diamond": "\ue0b6",
           "style": "plain",
-          "template": "\u279c ",
+          "template": " \u279c ",
           "type": "text"
         }
       ],
