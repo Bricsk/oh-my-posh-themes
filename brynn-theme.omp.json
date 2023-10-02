@@ -75,7 +75,7 @@
       "segments": [
         {
           "background": "#ffffff",
-          "foreground": "#ffffff",
+          "foreground": "#000000",
           "style": "plain",
           "template": "\u279c ",
           "type": "text"
