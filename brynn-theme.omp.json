@@ -5,42 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "style": "plain",
-          "segments": [
-            {
-              "foreground": "#00BFFF",
-              "style": "plain",
-              "template": "Welcome",
-              "type": "text"
-            },
-            {
-              "foreground": "#808080",
-              "style": "plain",
-              "template": " | ",
-              "type": "text"
-            },
-            {
-              "foreground": "#FFFFFF",
-              "style": "plain",
-              "template": "{{ .CurrentDate | date \"yyyy-MM-dd HH:mm:ss\" }}",
-              "type": "text"
-            },
-            {
-              "foreground": "#808080",
-              "style": "plain",
-              "template": " | ",
-              "type": "text"
-            },
-            {
-              "foreground": "#FFD700",
-              "style": "plain",
-              "template": "PS {{ .ShellVersion }}",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "background": "#FFFFFF",
+          "background":"#FFFFFF",
           "foreground": "#000000",
           "leading_diamond": "\ue0b6",
           "style": "powerline",
@@ -99,7 +64,7 @@
           },
           "style": "powerline",
           "template": " \uea6c ",
-          "type": "status"
+          "type": "status"          
         }
       ],
       "type": "prompt"
