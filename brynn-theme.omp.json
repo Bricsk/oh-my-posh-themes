@@ -6,8 +6,8 @@
       "alignment": "left",
       "segments": [
         {
-          "background":"#FDF6E3",
-          "foreground": "#000000",
+          "background":"#282C34",
+          "foreground": "#f9f9f9",
           "leading_diamond": "\ue0b6",
           "style": "powerline",
           "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
@@ -75,8 +75,8 @@
       "newline": true,
       "segments": [
         {
-          "background": "#FDF6E3",
-          "foreground": "#000000",
+          "background": "#282C34",
+          "foreground": "#f9f9f9",
           "style": "plain",
           "template": "\u279c ",
           "type": "text"
