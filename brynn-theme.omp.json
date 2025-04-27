@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "background":"#FFFFFF",
+          "background":"#f9f9f9",
           "foreground": "#000000",
           "leading_diamond": "\ue0b6",
           "style": "powerline",
@@ -13,16 +13,16 @@
           "type": "os"
         },
         {
-          "background": "#242424",
-          "foreground": "#f1184c",
+          "background": "#5bc0de",
+          "foreground": "#f9f9f9",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": " {{ .UserName }} ",
           "type": "session"
         },
         {
-          "background": "#242424",
-          "foreground": "#f1184c",
+          "background": "#428bca",
+          "foreground": "#f9f9f9",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": "- root \uf0e7",
