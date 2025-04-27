@@ -29,8 +29,8 @@
           "type": "root"
         },
         {
-          "background": "#3E4145",
-          "foreground": "#33DD2D",
+          "background": "#428bca",
+          "foreground": "#f9f9f9",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "folder_separator_icon": "/",
