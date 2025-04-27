@@ -6,7 +6,7 @@
       "alignment": "left",
       "segments": [
         {
-          "background":"#f9f9f9",
+          "background":"#FDF6E3",
           "foreground": "#000000",
           "leading_diamond": "\ue0b6",
           "style": "powerline",
@@ -75,7 +75,7 @@
       "newline": true,
       "segments": [
         {
-          "background": "#f9f9f9",
+          "background": "#FDF6E3",
           "foreground": "#000000",
           "style": "plain",
           "template": "\u279c ",
